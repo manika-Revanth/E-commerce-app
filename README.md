@@ -10,3 +10,4 @@ GIT WORK FLOW:
 
 NOTE: ** Developers are not allowed to directly make changes to the main branch. **
 
+>>>CUSTOMER-LOGIN feature is added<<<
